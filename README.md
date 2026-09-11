@@ -101,14 +101,14 @@ Dedicated **Fullstack Developer** and **Project Manager** with hands-on experien
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffiatalla90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raffi's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffiatalla90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=raffiatalla90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raffi's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raffiatalla90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffiatalla90&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffiatalla90&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
 
 ---
 
