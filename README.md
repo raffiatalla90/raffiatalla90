@@ -7,6 +7,14 @@
 [![Email](https://img.shields.io/badge/Email-raffiatalla9090%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raffiatalla9090@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Wonogiri%20%7C%20Surakarta%2C%20ID-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/raffiatalla90/raffiatalla90/main/assets/hacker.gif" alt="Hacker Animation" width="460" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+Raffi+Atalla+Natha+Atmaja;%24+cat+profile.log;%3E+Fullstack+Developer+%7C+Project+Manager;%24+run+stack.sh;%3E+Laravel+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+Node+%E2%80%A2+Docker;%24+status;%3E+ALL+SYSTEMS+OPERATIONAL+%E2%9C%94" alt="Hacker Terminal" />
+
 <p align="center">
   <b>Fullstack Developer</b> • <b>Project Manager</b> • <b>Tech Enthusiast</b><br>
   <i>Informatics Engineering Graduate from Universitas Sebelas Maret (GPA 3.91 / 4.00)</i>
@@ -99,7 +107,7 @@ Dedicated **Fullstack Developer** and **Project Manager** with hands-on experien
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity Graphs
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=raffiatalla90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raffi's GitHub Stats" />
@@ -107,7 +115,12 @@ Dedicated **Fullstack Developer** and **Project Manager** with hands-on experien
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffiatalla90&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffiatalla90&theme=tokyonight" alt="GitHub Profile Details & Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raffiatalla90&theme=tokyonight" alt="Top Languages by Commit Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raffiatalla90&theme=tokyonight" alt="Top Languages by Repo Chart" />
 </p>
 
 ---
