@@ -117,5 +117,4 @@ Dedicated **Fullstack Developer** and **Project Manager** with hands-on experien
 - 🌐 **Portfolio Website:** [raffiatalla.my.id](https://raffiatalla.my.id)
 - 💼 **LinkedIn:** [/in/raffi-atalla](https://www.linkedin.com/in/raffi-atalla)
 - 📧 **Email:** [raffiatalla9090@gmail.com](mailto:raffiatalla9090@gmail.com)
-- 📱 **Phone / WhatsApp:** [+62 821-3854-0196](https://wa.me/6282138540196)
 - 📍 **Location:** Wonogiri / Surakarta, Indonesia
