@@ -1,6 +1,7 @@
 <div align="center">
-
-# 👋 Hi there, I'm Raffi Atalla Natha Atmaja
+<a href="https://github.com/raffiatalla90">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=760&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Raffi+Atalla+Natha+Atmaja;%24+whoami;%3E+Raffi+Atalla+Natha+Atmaja;%3E+Fullstack+Developer+%26+Project+Manager;%F0%9F%91%8B+Hi+there%2C+I'm+Raffi+Atalla+Natha+Atmaja" alt="Hi there, I'm Raffi Atalla Natha Atmaja" />
+</a>
 
 [![Website](https://img.shields.io/badge/Website-raffiatalla.my.id-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raffiatalla.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raffi%20Atalla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffi-atalla)
